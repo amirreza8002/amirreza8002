@@ -1,7 +1,7 @@
 - 👋 Hi, I’m amirreza sohrabi far
 - 👀 I’m interested in code and novels and games and ...
 - 💞️ I’m looking to collaborate on django projects
-- 🌱 I’m currently learning PySide6
+- 🌱 I’m currently learning FastAPI
 - 📫 How to reach me (@ars_8002 on telegram) or (@a.r.sohrabi80 on instagram)
 
 <!---
