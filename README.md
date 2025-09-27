@@ -1,4 +1,3 @@
 - 👋 Hi, I’m amirreza sohrabi far
-- 👀 I’m interested in code and novels and games and ...
 - 🌱 I’m currently maintaining django-valkey and channels_valkey
 - 📫 How to reach me (@arsf8002 on telegram) or (@a.r.sohrabi80 on instagram) or (amir.rsf1380@gmail.com)
