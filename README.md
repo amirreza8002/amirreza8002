@@ -1,4 +1,4 @@
 - 👋 Hi, I’m amirreza sohrabi far
 - 🌱 I’m currently maintaining django-valkey and channels_valkey
 - 💻 i do python and c#
-- 📫 How to reach me [telegram](https://t.me/arsf8002) or [instagram](https://www.instagram.com/a.r.sohrabi80) or [gmail](mailto:amir.rsf1380@gmail.com)
+- 📫 How to reach me: [telegram](https://t.me/arsf8002) or [instagram](https://www.instagram.com/a.r.sohrabi80) or [gmail](mailto:amir.rsf1380@gmail.com)
